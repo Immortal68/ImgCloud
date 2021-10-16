@@ -1,2 +1,2 @@
 # ImgCloud
-Zoom图床
+图床
