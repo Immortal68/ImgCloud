@@ -15,7 +15,7 @@
     cursor: pointer;
     position: absolute;
     transition: all .3s;
-    background: url(avatar.png) center/contain;
+    background: url(https://cdn.jsdelivr.net/gh/Immortal68/SSZ-Index/sns/ranran.png") center/contain;
     opacity: 0.7;
 }
 
@@ -36,6 +36,7 @@
     display: none;
 }
 
+}
 .pio-container.left {
     left: 0
 }
@@ -73,8 +74,8 @@
 
 .pio-action span {
     color: #fff;
-    width: 2em;
-    height: 2em;
+    width: 1.8em;
+    height: 1.8em;
     margin-bottom: 0.6em;
     display: block;
     cursor: pointer;
@@ -133,6 +134,7 @@
 }
 
 #pio {
+	height: 240px;
     vertical-align: middle
 }
 
